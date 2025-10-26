@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: codespace <codespace@student.42.fr>        +#+  +:+       +#+         #
+#    By: apaula-l <apaula-l@student.42sp.org.br>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2025/10/13 01:09:15 by codespace         #+#    #+#              #
-#    Updated: 2025/10/19 22:00:38 by codespace        ###   ########.fr        #
+#    Created: 2025/10/13 01:09:15 by apaula-l          #+#    #+#              #
+#    Updated: 2025/10/26 16:37:14 by apaula-l         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
